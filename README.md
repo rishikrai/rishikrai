@@ -48,6 +48,14 @@ I'm a final-year B.Tech Computer Science (AIML) student who loves turning ideas 
 Placement Prediction System is a Machine Learning-based web application that predicts whether a student is likely to be placed based on academic performance, work experience, and specialization. The model is deployed using Flask and provides prediction probability, confidence level, and interactive analytics through a modern web interface
 **Tech:** **HTML5** • **Python** • **Java Script** • **Flask** 
 
+# 🌐 Live Demo
+
+### 🚀 Try the application here
+
+**https://placement-prediction-j3s8.onrender.com**
+
+> **Note:** This project is hosted on Render's free tier. If the application has been inactive for some time, the first request may take **30–60 seconds** while the server wakes up.
+
 ### 🤖 Project Two
 Add a short 2-3 line description of what this project does, the problem it solves, and its key features. Mention the tech stack used.
 **Tech:** **Python** • **AI** • **MongoDB**
