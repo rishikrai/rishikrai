@@ -57,9 +57,15 @@ Placement Prediction System is a Machine Learning-based web application that pre
 
 > **Note:** This project is hosted on Render's free tier. If the application has been inactive for some time, the first request may take **30–60 seconds** while the server wakes up.
 
-### 🤖 Project Two
-Add a short 2-3 line description of what this project does, the problem it solves, and its key features. Mention the tech stack used.
-**Tech:** **Python** • **AI** • **MongoDB**
+---
+
+### 😊 AI Sentiment Analysis using Machine Learning
+
+AI Sentiment Analysis using Machine Learning is a web application that classifies movie reviews as **Positive** or **Negative** using **Logistic Regression** and **TF-IDF Vectorization**. Built with **Python** and **Streamlit**, it provides instant sentiment predictions along with confidence scores through an interactive user interface.
+
+## 🌐 Live Demo
+
+👉 **https://sentiment-analysis-app-hgcqxchxdfxtcdftkm3tdf.streamlit.app/**
 
 ### 🗄️ Project Three
 Add a short 2-3 line description of what this project does, the problem it solves, and its key features. Mention the tech stack used.
