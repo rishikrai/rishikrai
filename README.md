@@ -44,7 +44,7 @@ I'm a final-year B.Tech Computer Science (AIML) student who loves turning ideas 
 
 ## 🔥 Featured Projects
 
-## 🌐 Placement Prediction
+### 🌐 Placement Prediction
 
 Placement Prediction System is a Machine Learning-based web application that predicts whether a student is likely to be placed based on academic performance, work experience, and specialization. The model is deployed using Flask and provides prediction probability, confidence level, and interactive analytics through a modern web interface
 **Tech:** **HTML5** • **Python** • **Java Script** • **Flask** 
@@ -59,7 +59,7 @@ Placement Prediction System is a Machine Learning-based web application that pre
 
 ---
 
-## 😊 AI Sentiment Analysis using Machine Learning
+### 😊 AI Sentiment Analysis using Machine Learning
 
 AI Sentiment Analysis using Machine Learning is a web application that classifies movie reviews as **Positive** or **Negative** using **Logistic Regression** and **TF-IDF Vectorization**. Built with **Python** and **Streamlit**, it provides instant sentiment predictions along with confidence scores through an interactive user interface.
 
