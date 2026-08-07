@@ -65,14 +65,23 @@ AI Sentiment Analysis using Machine Learning is a web application that classifie
 
 #### 🌐 Live Demo
 
+### 🚀 Try the application here
+
 👉 **https://sentiment-analysis-app-hgcqxchxdfxtcdftkm3tdf.streamlit.app/**
 
+---
+
 ### 🗄️ ShopSense AI
+
 ShopSense AI is a machine learning-based web application that predicts whether an online shopper is likely to complete a purchase based on their browsing behavior and session attributes. It uses a trained classification model with a Flask backend and an interactive frontend to provide real-time purchase predictions, confidence scores, and customer intent analysis.
 
 #### 🌐 Live Demo
 
+### 🚀 Try the application here
+
 👉 **https://placement-prediction-j3s8.onrender.com**
+
+> **Note:** This project is hosted on Render's free tier. If the application has been inactive for some time, the first request may take **30–60 seconds** while the server wakes up.
 
 ---
 
